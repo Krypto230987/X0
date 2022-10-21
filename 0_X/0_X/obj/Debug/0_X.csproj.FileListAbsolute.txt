@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Diana Un\0_X\0_X\obj\Debug\0_X.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Diana Un\0_X\0_X\obj\Debug\0_X.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Diana Un\0_X\0_X\obj\Debug\0_X.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Diana Un\0_X\0_X\bin\Debug\0_X.exe.config
+C:\Users\User\Desktop\Diana Un\0_X\0_X\bin\Debug\0_X.exe
+C:\Users\User\Desktop\Diana Un\0_X\0_X\bin\Debug\0_X.pdb
+C:\Users\User\Desktop\Diana Un\0_X\0_X\obj\Debug\0_X.exe
+C:\Users\User\Desktop\Diana Un\0_X\0_X\obj\Debug\0_X.pdb
